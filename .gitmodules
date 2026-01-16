@@ -1,0 +1,8 @@
+[submodule "microsservices/post-service"]
+	path = microsservices/post-service
+	url = https://github.com/brenopedro/post-service.git
+	branch = main
+[submodule "microsservices/text-processor-service"]
+	path = microsservices/text-processor-service
+	url = https://github.com/brenopedro/text-processor-service.git
+	branch = main
