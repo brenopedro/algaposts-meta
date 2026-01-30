@@ -1,5 +1,5 @@
 services:
-  algasensors-rabbitmq:
+  algaposts-rabbitmq:
     image: rabbitmq:3-management
     restart: no
     container_name: algaposts-rabbitmq
